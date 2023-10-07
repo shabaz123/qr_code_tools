@@ -33,3 +33,8 @@ const uint8_t qr_code[165] = {
 
 /************* end of machine-generated section *************/
 ~~~
+
+## qr_display_function.c
+This file contains a single function that can be used to construct the QR code onto an LCD screen, from the output from the qr_gen.py code.
+
+Refer to the comments in qr_display_function.c to see how to use it.
