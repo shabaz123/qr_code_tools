@@ -2,7 +2,7 @@
 
 # #########################################################
 # QR code generator, creates a C array!
-# rev 1 - shabaz - 0ct 2023
+# rev 1 - shabaz - oct 2023
 # requires 'pip install qrcode' and 'pip install pypng'
 # usage: python qr_gen.py https://my.url/or/text
 # #########################################################
